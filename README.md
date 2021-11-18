@@ -1,5 +1,5 @@
-# Care Wheel
-With CareWheel, a small-affordable IOT device (depending on your type of supervision) will keep monitoring the user's vitals including - (health related) temperature, heart rate, etc (over 37 parameters) aswell as (general related) location. Moreover, supervisors can upload status update or a picture aswell. All these information are sent to our backend where we use over 20 different statistical techniques to sort the data in more meaningful manner along with Machine Learning and Natural Language Processesing.
+# Early Intervention and Diagnostic Analyzer
+With EIDA (CareWheel), a small-affordable IOT device (depending on your type of supervision) will keep monitoring the user's vitals including - (health related) temperature, heart rate, etc (over 37 parameters) aswell as (general related) location. Moreover, supervisors can upload status update or a picture aswell. All these information are sent to our backend where we use over 20 different statistical techniques to sort the data in more meaningful manner along with Machine Learning and Natural Language Processesing.
 
 # Installation
 ```bash
