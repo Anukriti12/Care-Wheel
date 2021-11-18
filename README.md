@@ -8,7 +8,7 @@ With EIDA (CareWheel), a small-affordable IOT device (depending on your type of 
 sudo apt-get install python-virtualenv7
 # Install Docker & Docker Compose (https://github.com/hellohaptik/chatbot_ner/blob/develop/docs/install.md)
 
-git clone https://github.com/ankitpriyarup/care-wheel.git
+git clone https://github.com/Anukriti12/EIDA.git
 cd care-wheel
 virtualenv -p python3 env
 source env/bin/activate
@@ -33,7 +33,7 @@ python3 app.py
 ./ngrok http 5000
 
 # Setup Twilio for whatsapp messaging, open my https://www.twilio.com/ account
-# (email: ankitpriyarup@gmail.com password:CareWheelProject)
+# (email: anu1999kriti@gmail.com password:CareWheelProject)
 # Under Programmable SMS > Whatsapp (first send the msg to the whatsapp number mentioned on the page as written)
 # Finally set WHEN A MESSAGE COMES IN to the ngrok address you recieved before
 
